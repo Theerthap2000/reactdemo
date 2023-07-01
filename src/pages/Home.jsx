@@ -13,6 +13,7 @@ const Home = () => {
                 <div className="b">Help</div>
                 <div className="c">Download</div>
                 <div className="d">Sign up</div>
+                <div className='f'>home page</div>
                 <div className="e">Login</div>
             </div>
         </>
